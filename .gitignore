@@ -9,8 +9,16 @@
 # testing
 /coverage
 
+/public
+/src
+
+LICENSE
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
 # production
-/build
+
 
 # misc
 .DS_Store
